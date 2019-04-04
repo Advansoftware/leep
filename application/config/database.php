@@ -74,11 +74,11 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default'] = array(
-    'dsn'	=> 'mysql:host=localhost;port=3306;dbname=brazopol_camar',
+    'dsn'	=> 'mysql:host=localhost;port=3306;dbname=leep',
     'hostname' => 'mysql:host=localhost',
     'username' => 'root',
     'password' => '',
-    'database' => 'brazopol_camar',
+    'database' => 'leep',
     'dbdriver' => 'pdo',
     'dbprefix' => '',
     'pconnect' => FALSE,

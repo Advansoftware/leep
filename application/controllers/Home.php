@@ -16,6 +16,6 @@ Class Home extends CI_Controller{
     }
 
     public function index(){
-        $this->template->load('template/header', 'home');
+        $this->template->load('template/header2', 'home2');
     }
 }

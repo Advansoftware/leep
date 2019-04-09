@@ -7,8 +7,6 @@
 | files.  Please see the user guide for info:
 |
 |	http://codeigniter.com/user_guide/general/hooks.html
-|
-*/
 
 $hook['display_override'][] = array(
 	'class'  	=> 'Develbar',
@@ -16,6 +14,10 @@ $hook['display_override'][] = array(
     'filename' 	=> 'Develbar.php',
     'filepath' 	=> 'third_party/DevelBar/hooks'
 );
+|
+*/
+
+
 
 /* End of file hooks.php */
 /* Location: ./application/config/hooks.php */

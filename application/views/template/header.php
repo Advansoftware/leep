@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Creative - Start Bootstrap Theme</title>
+    <title>Confecções Leep</title>
 
     <!-- Bootstrap core CSS -->
     <link href="<?=base_url()?>vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -31,23 +31,23 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
     <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top"><img src="<?=base_url();?>contents/img/logo leep NOVO colocar fundo branco.png" class="img-fluid w-25" ></a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#about">About</a>
+                    <a class="nav-link js-scroll-trigger" href="#about">Sobre</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#services">Services</a>
+                    <a class="nav-link js-scroll-trigger" href="#services">Serviços</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+                    <a class="nav-link js-scroll-trigger" href="#portfolio">Portfólio</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+                    <a class="nav-link js-scroll-trigger" href="#contact">Contato</a>
                 </li>
             </ul>
         </div>
@@ -62,20 +62,20 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 mx-auto text-center">
-                <h2 class="section-heading">Let's Get In Touch!</h2>
+                <h2 class="section-heading">Quem nos somos!</h2>
                 <hr class="my-4">
-                <p class="mb-5">Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
+                <p class="mb-5"> loja tal</p>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-4 ml-auto text-center">
                 <i class="fas fa-phone fa-3x mb-3 sr-contact-1"></i>
-                <p>123-456-6789</p>
+                <p>(35)98421-6196</p>
             </div>
             <div class="col-lg-4 mr-auto text-center">
                 <i class="fas fa-envelope fa-3x mb-3 sr-contact-2"></i>
                 <p>
-                    <a href="mailto:your-email@your-domain.com">feedback@startbootstrap.com</a>
+                    <a href="mailto:your-email@your-domain.com">tal@gmail.com</a>
                 </p>
             </div>
         </div>
